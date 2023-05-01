@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Spline Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/splinesans/v8/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEg.ttf) format('truetype');
+}

@@ -1,0 +1,468 @@
+Uri: https://cdn.jsdelivr.net/npm/@widgetbot/html-embed
+File Name: C:\Downloaded Web Sites\totallyscience.co\npm\@widgetbot\html-embed
+Content Type: application/javascript
+
+Uri: https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver
+File Name: C:\Downloaded Web Sites\totallyscience.co\v2\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&family=Rubik&display=swap
+File Name: C:\Downloaded Web Sites\totallyscience.co\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Spline+Sans:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\totallyscience.co\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mplusrounded1c/v15/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5psK.ttf
+File Name: C:\Downloaded Web Sites\totallyscience.co\s\mplusrounded1c\v15\VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5psK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v26/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\totallyscience.co\s\rubik\v26\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/splinesans/v8/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEg.ttf
+File Name: C:\Downloaded Web Sites\totallyscience.co\s\splinesans\v8\_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEg.ttf
+Content Type: font/ttf
+
+Uri: https://img.icons8.com/color/480/tilde-key.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\color\480\tilde-key.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/material-outlined/24/000000/search--v1.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\material-outlined\24\000000\search--v1.png
+Content Type: image/png
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816
+File Name: C:\Downloaded Web Sites\totallyscience.co\beacon.min.js\v52afc6f149f6479b8c77fa569edb01181681764108816
+Content Type: text/javascript
+
+Uri: https://totallyscience.co/
+File Name: C:\Downloaded Web Sites\totallyscience.co\index.htm
+Content Type: text/html
+
+Uri: https://totallyscience.co/apps.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\apps.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/assets/images/chest.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\chest.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/extracats/arcade.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\arcade.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/images/extracats/cars.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\cars.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/extracats/clicker.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\clicker.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/extracats/fnaf.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\fnaf.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/extracats/fnf.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\fnf.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/images/extracats/henrystickmin.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\henrystickmin.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/extracats/multiplayer.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\multiplayer.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/extracats/puzzle.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\puzzle.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/images/extracats/running.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\running.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/images/extracats/vex-7-games.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\extracats\vex-7-games.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/featuredimg/bob-the-robber-2-featured.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\featuredimg\bob-the-robber-2-featured.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/featuredimg/monkey-mart.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\featuredimg\monkey-mart.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/images/featuredimg/motox3mpoolparty.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\featuredimg\motox3mpoolparty.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/featuredimg/vex-7.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\featuredimg\vex-7.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/icons/check.webp
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\icons\check.webp
+Content Type: image/webp
+
+Uri: https://totallyscience.co/assets/images/icons/edit.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\icons\edit.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/icons/preload.gif
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\icons\preload.gif
+Content Type: image/gif
+
+Uri: https://totallyscience.co/assets/images/left-arrow.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\left-arrow.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/magnifying-light.svg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\magnifying-light.svg
+Content Type: image/svg+xml
+
+Uri: https://totallyscience.co/assets/images/partners/artclass.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\artclass.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/partners/bigfoot.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\bigfoot.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/partners/bluehatcrew.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\bluehatcrew.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/partners/IRunblocked.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\IRunblocked.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/partners/Kazwire.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\Kazwire.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/partners/phantomgames.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\phantomgames.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/partners/TN.webp
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\TN.webp
+Content Type: image/webp
+
+Uri: https://totallyscience.co/assets/images/partners/weblfg.webp
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\partners\weblfg.webp
+Content Type: image/webp
+
+Uri: https://totallyscience.co/assets/images/right-arrow.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\right-arrow.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/images/totally-science-logo-transparent-scaled.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\images\totally-science-logo-transparent-scaled.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/assets/minis/Dispenser.mp4
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\Dispenser.mp4
+Content Type: video/mp4
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comapple.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comapple.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comavocado.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comavocado.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comberry.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comberry.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/combread.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\combread.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comcarrot.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comcarrot.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comdragonfruit.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comdragonfruit.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comegg.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comegg.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comlemon.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comlemon.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/commilk.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\commilk.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/compeach.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\compeach.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/compear.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\compear.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/compineapple.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\compineapple.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/compizza.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\compizza.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comprickle.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comprickle.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comstrawberry.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comstrawberry.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comstrawberrymale.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comstrawberrymale.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comtomato.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comtomato.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/comwatermellon.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\comwatermellon.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicbomb.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicbomb.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicboombox.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicboombox.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicdisco.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicdisco.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicdrink.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicdrink.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epichotdog.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epichotdog.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicmovie.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicmovie.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicpc.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicpc.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/epicworld.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\epicworld.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/legdollar.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\legdollar.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/leglemonade.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\leglemonade.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/legsuitcase.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\legsuitcase.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/legsun.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\legsun.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/legvr.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\legvr.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rarebooze.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rarebooze.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rarecoffee.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rarecoffee.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rarecup.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rarecup.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/raredonut.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\raredonut.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rarefire.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rarefire.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rareflower.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rareflower.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rareheart.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rareheart.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rareketchup.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rareketchup.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/raremushroom.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\raremushroom.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rarepopsicle.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rarepopsicle.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/raresoccer.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\raresoccer.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/minis/JPGs/rarestormcloud.jpg
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\minis\JPGs\rarestormcloud.jpg
+Content Type: image/jpeg
+
+Uri: https://totallyscience.co/assets/scripts/index.js?v70
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\scripts\index.js
+Content Type: application/x-javascript
+
+Uri: https://totallyscience.co/assets/scripts/main.js?v63
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\scripts\main.js
+Content Type: application/x-javascript
+
+Uri: https://totallyscience.co/assets/scripts/profile.js?v86
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\scripts\profile.js
+Content Type: application/javascript
+
+Uri: https://totallyscience.co/assets/styles/index.css?v34
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\styles\index.css
+Content Type: text/css
+
+Uri: https://totallyscience.co/assets/styles/main.css?v34
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\styles\main.css
+Content Type: text/css
+
+Uri: https://totallyscience.co/assets/styles/profile.css?v11
+File Name: C:\Downloaded Web Sites\totallyscience.co\assets\styles\profile.css
+Content Type: text/css
+
+Uri: https://totallyscience.co/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://totallyscience.co/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://totallyscience.co/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://totallyscience.co/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\totallyscience.co\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://totallyscience.co/chat.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\chat.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/leaderboard.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\leaderboard.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/partners.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\partners.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/privacypolicy.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\privacypolicy.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/profile.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\profile.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/settings.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\settings.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/shop.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\shop.php.html
+Content Type: text/html
+
+Uri: https://totallyscience.co/termsofuse.php
+File Name: C:\Downloaded Web Sites\totallyscience.co\termsofuse.php.html
+Content Type: text/html
+
+Uri: https://unpkg.com/sweetalert@2.1.2/dist/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\totallyscience.co\sweetalert@2.1.2\dist\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://www.cooperlighting.com/s/vividtune/png/right-arrow.png
+File Name: C:\Downloaded Web Sites\totallyscience.co\s\vividtune\png\right-arrow.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-Y14RZLW8H8
+File Name: C:\Downloaded Web Sites\totallyscience.co\gtag\js
+Content Type: application/javascript
+
